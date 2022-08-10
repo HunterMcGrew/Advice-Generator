@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/advice_generator.PNG.jpg)
+![image](https://github.com/HunterMcGrew/Advice-Generator/blob/main/images/advice_generator.PNG?raw=true)
 
 ### Links
 
