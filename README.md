@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://huntermcgrew.github.io/Advice-Generator/)
 
 ## My process
 
@@ -49,7 +49,7 @@ Users should be able to:
 ## Author
 
 - Website - [Hunter McGrew](https://github.com/HunterMcGrew)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@HunterMcGrew](https://www.frontendmentor.io/profile/HunterMcGrew)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
