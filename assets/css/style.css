@@ -10,6 +10,7 @@ body {
     margin: 0 2% 0 2%;
     background-color: var(--darkBlue);
     text-align: center;
+    font-family: 'Manrope', sans-serif;
 }
 
 .container-fluid {
@@ -18,15 +19,26 @@ body {
 
 .adviceCard {
     background-color: var(--darkGrayishBlue);
-    min-width: 525px;
+    min-width: 350px;
+    max-width: 600px;
 }
 
 .pTitle {
+    margin-top: 30px;
     color: var(--neonGreen);
+    font-size: 12px;
+    letter-spacing: 2px;
 }
 
-.adviceP, .adviceTxt {
+.adviceP {
     color: white;
+    margin: 20px 20px;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.divider {
+    margin: 40px 0px 10px 0px;
 }
 
 .generateBtn {
@@ -68,7 +80,8 @@ body {
     }
 
     .adviceCard {
-        min-width: 350px;
+        width: 90vw;
+
     }
 
 }
