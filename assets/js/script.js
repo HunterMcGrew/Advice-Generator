@@ -10,11 +10,10 @@ let dice = document.getElementById("dice");
 let rotation = 0;
 
 const getAdvice = async () => {
-    event.preventDefault();
     const url = "https://api.adviceslip.com/advice";
 
     try {
-    const response = await fetch(url);
+    const response = await fetch(url, {cache: "no cache"});
     const result = await response.json();
 
     if (response.ok) {
