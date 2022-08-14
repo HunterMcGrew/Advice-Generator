@@ -51,8 +51,6 @@ Users should be able to:
 - Website - [Hunter McGrew](https://github.com/HunterMcGrew)
 - Frontend Mentor - [@HunterMcGrew](https://www.frontendmentor.io/profile/HunterMcGrew)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 Shout out to my friend [Jane McPheron](https://github.com/jvmcpheron) who always helps me when I get stuck!
